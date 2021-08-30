@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+label{
+    text-align: center;
+    margin: auto;
+    display: block;
+    padding-bottom: 1rem;
+}
