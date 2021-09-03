@@ -1,9 +1,39 @@
+
 h1{
     text-align: center;
+    background-color: chartreuse;
+    margin: 0px 350px;
+    padding-bottom:0.5rem ;
+
 }
 label{
     text-align: center;
     margin: auto;
     display: block;
     padding-bottom: 1rem;
+}
+input{
+    padding: 0.5rem 0.5rem;
+}
+#submit-btn{
+    padding:0.5rem 0.5rem;
+    margin: auto;
+    display: block;
+}
+main{
+    background-color: bisque;
+    margin: 0px 350px;
+    padding-top:0.5rem ;
+}
+ul{
+    list-style: none;
+    text-align: center;
+    padding-bottom: 1rem;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.link-active{
+    font-weight: bolder;
 }
